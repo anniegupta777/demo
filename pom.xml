@@ -6,7 +6,6 @@
 	<groupId>com.nagarro.nagp</groupId>
 	<artifactId>inventory-management</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<packaging>war</packaging>
 	<dependencies>
 
 		<dependency>
